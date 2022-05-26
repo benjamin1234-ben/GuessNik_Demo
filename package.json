@@ -1,0 +1,15 @@
+{
+  "name": "GuessNik-Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "index": "node --experimental-modules --unhandled-rejections=strict index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reach-sh/stdlib": "^0.1.10-rc.6"
+  }
+}
